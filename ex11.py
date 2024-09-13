@@ -16,15 +16,24 @@ print('Podemos perceber que há reais e inteiros entre eles, os quais: \nOs reai
 
 # 1 - x + y – z * a
 A = x+y-(z*a)
+# A variável irá guardar o resultado e irá mostrar apenas a resposta. Aqui uma resolução: 
 # z*a = 36.0, y-36 = 2-36 = -34, 2-36 = -34 
 print(A)
 
 # 2 - d / y
 B = d/y
-# d/y = 16/2 = 8.0
+# A variável irá guardar o resultado e irá mostrar apenas a resposta. Aqui uma resolução: 
+# vd/y = 16/2 = 8.0
 print(B)
 
 # 3 - y % d
 C = y%d
-# 2/16 = 
+# A variável irá guardar o resultado e irá mostrar apenas a resposta. Aqui uma resolução: 
+# 2%16 = 2 
 print(C)
+
+# 4 - p * (r % q) – q/2
+D = p*(r%q)-q/2
+# A variável irá guardar o resultado e irá mostrar apenas a resposta. Aqui uma resolução:
+# 24%6 = 0 _ 4*0 = 0 _ -q/2 = -6/2 = -3
+print(D)
