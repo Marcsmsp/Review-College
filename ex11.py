@@ -37,3 +37,7 @@ D = p*(r%q)-q/2
 # A variável irá guardar o resultado e irá mostrar apenas a resposta. Aqui uma resolução:
 # 24%6 = 0 _ 4*0 = 0 _ -q/2 = -6/2 = -3
 print(D)
+
+# 5 - (a-b*y-d)
+E = a-b*y-d
+print(E)
