@@ -41,3 +41,7 @@ print(D)
 # 5 - (a-b*y-d)
 E = a-b*y-d
 print(E)
+
+# 6 - ((z/a) + b * a) – d
+F = (z/a)+b*a)-d
+print(F)
